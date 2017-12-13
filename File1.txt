@@ -1,3 +1,5 @@
 File 1 content
 
 Some more content
+
+Stash changes
